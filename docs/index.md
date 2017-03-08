@@ -1,16 +1,20 @@
 # Welcome to Dasset
+`Dasset™ | algobet Labs © 2017`
 
+## Know-how to Read
+* `Dasset` is not just a combined abbr. of "digital asset", but also an omni format in the digital asset world.
+* `Dasset™` is an unregistered brand for this digital asset system. The dictionary is available at `http://dasset.trade`.
 
-## Commands
+## How to Test (for Developers) 
 
-* `mkdocs new clover` - Create this new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+* Run a private blockchain, e.g., `ethereum`, etc.
+* Run a content repo, e.g., `ipfs`, etc.
+* Checkout the source code from `http://...` and configure the environment, e.g., `nodejs`, `meteor`, etc. Checklist available at `http://dasset.trade/test/...`
+* Test the project step by step as guided in the `./README.md`.
 
-## Project layout
+## How to Join (for Users)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* Visit `http://dasset.trade` and register your domain.
+* Download mobile apps `Dasset™ Go`(iOS) or `Dasset™ OTG`(android).
+
+Have A Great Day!

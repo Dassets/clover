@@ -3,4 +3,7 @@ pages:
   - Home: index.md
   - About: about.md
   - BAO: bao.md
+  - BAS: bas.md
+  - Whitepaper: whitepaper.md
+  - Misc: misc.md
 theme: readthedocs    
