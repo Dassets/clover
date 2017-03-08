@@ -1,0 +1,6 @@
+site_name: Dasset
+pages:
+  - Home: index.md
+  - About: about.md
+  - BAO: bao.md
+theme: readthedocs    
