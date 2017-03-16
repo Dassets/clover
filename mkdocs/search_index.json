@@ -1,0 +1,164 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to Dasset\n\n\nDasset\u2122 | algobet Labs \u00a9 2017\n\n\nKnow-how to Read\n\n\n\n\nDasset\n is not just a combined abbr. of \"digital asset\", but also an omni format in the digital asset world.\n\n\nDasset\u2122\n is an unregistered brand for this digital asset system. The dictionary is available at \nhttp://dasset.trade\n.\n\n\n\n\nHow to Test (for Developers)\n\n\n\n\nRun a private blockchain, e.g., \nethereum\n, etc.\n\n\nRun a content repo, e.g., \nipfs\n, etc.\n\n\nCheckout the source code from \nhttp://...\n and configure the environment, e.g., \nnodejs\n, \nmeteor\n, etc. Checklist available at \nhttp://dasset.trade/test/...\n\n\nTest the project step by step as guided in the \n./README.md\n.\n\n\n\n\nHow to Join (for Users)\n\n\n\n\nVisit \nhttp://dasset.trade\n and register your domain.\n\n\nDownload mobile apps \nDasset\u2122 Go\n(iOS) or \nDasset\u2122 OTG\n(android).\n\n\n\n\nHave A Great Day!",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome-to-dasset",
+            "text": "Dasset\u2122 | algobet Labs \u00a9 2017",
+            "title": "Welcome to Dasset"
+        },
+        {
+            "location": "/#know-how-to-read",
+            "text": "Dasset  is not just a combined abbr. of \"digital asset\", but also an omni format in the digital asset world.  Dasset\u2122  is an unregistered brand for this digital asset system. The dictionary is available at  http://dasset.trade .",
+            "title": "Know-how to Read"
+        },
+        {
+            "location": "/#how-to-test-for-developers",
+            "text": "Run a private blockchain, e.g.,  ethereum , etc.  Run a content repo, e.g.,  ipfs , etc.  Checkout the source code from  http://...  and configure the environment, e.g.,  nodejs ,  meteor , etc. Checklist available at  http://dasset.trade/test/...  Test the project step by step as guided in the  ./README.md .",
+            "title": "How to Test (for Developers)"
+        },
+        {
+            "location": "/#how-to-join-for-users",
+            "text": "Visit  http://dasset.trade  and register your domain.  Download mobile apps  Dasset\u2122 Go (iOS) or  Dasset\u2122 OTG (android).   Have A Great Day!",
+            "title": "How to Join (for Users)"
+        },
+        {
+            "location": "/about/",
+            "text": "About Dasset\n\n\nDasset\n is a digital asset system with an omni digital asset format to quantify the value of the digital world.\n\n\nMethodology\n\n\nProof of Concept\n\n\nDevelopment\n\n\nDeployment\n\n\nRoadmap",
+            "title": "About"
+        },
+        {
+            "location": "/about/#about-dasset",
+            "text": "Dasset  is a digital asset system with an omni digital asset format to quantify the value of the digital world.",
+            "title": "About Dasset"
+        },
+        {
+            "location": "/about/#methodology",
+            "text": "",
+            "title": "Methodology"
+        },
+        {
+            "location": "/about/#proof-of-concept",
+            "text": "",
+            "title": "Proof of Concept"
+        },
+        {
+            "location": "/about/#development",
+            "text": "",
+            "title": "Development"
+        },
+        {
+            "location": "/about/#deployment",
+            "text": "",
+            "title": "Deployment"
+        },
+        {
+            "location": "/about/#roadmap",
+            "text": "",
+            "title": "Roadmap"
+        },
+        {
+            "location": "/bao/",
+            "text": "Blockchain Asset Omnificence (BAO)\n\n\nBAO is a transformation tool for the Dasset system.\n\n\nHow to Use\n\n\nFeedback Collection",
+            "title": "BAO"
+        },
+        {
+            "location": "/bao/#blockchain-asset-omnificence-bao",
+            "text": "BAO is a transformation tool for the Dasset system.",
+            "title": "Blockchain Asset Omnificence (BAO)"
+        },
+        {
+            "location": "/bao/#how-to-use",
+            "text": "",
+            "title": "How to Use"
+        },
+        {
+            "location": "/bao/#feedback-collection",
+            "text": "",
+            "title": "Feedback Collection"
+        },
+        {
+            "location": "/bas/",
+            "text": "Blockchain Asset System (BAS)\n\n\nBAS is a repository tool for the Dasset system.\n\n\nHow to Use\n\n\nFeedback Collection",
+            "title": "BAS"
+        },
+        {
+            "location": "/bas/#blockchain-asset-system-bas",
+            "text": "BAS is a repository tool for the Dasset system.",
+            "title": "Blockchain Asset System (BAS)"
+        },
+        {
+            "location": "/bas/#how-to-use",
+            "text": "",
+            "title": "How to Use"
+        },
+        {
+            "location": "/bas/#feedback-collection",
+            "text": "",
+            "title": "Feedback Collection"
+        },
+        {
+            "location": "/whitepaper/",
+            "text": "Dasset - The Omni Digital Asset\n\n\nDasset\u2122 Whitepaper | algobet Labs \u00a9 2017\n\n\nIntroduction to the Digital Asset World\n\n\nQuantifying the Digital Asset Value",
+            "title": "Whitepaper"
+        },
+        {
+            "location": "/whitepaper/#dasset-the-omni-digital-asset",
+            "text": "Dasset\u2122 Whitepaper | algobet Labs \u00a9 2017",
+            "title": "Dasset - The Omni Digital Asset"
+        },
+        {
+            "location": "/whitepaper/#introduction-to-the-digital-asset-world",
+            "text": "",
+            "title": "Introduction to the Digital Asset World"
+        },
+        {
+            "location": "/whitepaper/#quantifying-the-digital-asset-value",
+            "text": "",
+            "title": "Quantifying the Digital Asset Value"
+        },
+        {
+            "location": "/misc/",
+            "text": "Miscellaneous\n\n\nFAQ\n\n\nAppendix\n\n\nDisclaimer\n\n\nCopyright\n\n\nContact\n\n\nOthers",
+            "title": "Misc"
+        },
+        {
+            "location": "/misc/#miscellaneous",
+            "text": "",
+            "title": "Miscellaneous"
+        },
+        {
+            "location": "/misc/#faq",
+            "text": "",
+            "title": "FAQ"
+        },
+        {
+            "location": "/misc/#appendix",
+            "text": "",
+            "title": "Appendix"
+        },
+        {
+            "location": "/misc/#disclaimer",
+            "text": "",
+            "title": "Disclaimer"
+        },
+        {
+            "location": "/misc/#copyright",
+            "text": "",
+            "title": "Copyright"
+        },
+        {
+            "location": "/misc/#contact",
+            "text": "",
+            "title": "Contact"
+        },
+        {
+            "location": "/misc/#others",
+            "text": "",
+            "title": "Others"
+        }
+    ]
+}
