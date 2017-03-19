@@ -1,4 +1,5 @@
 # Miscellaneous
+`Dasset™ | algobet Labs © 2017`
 
 ## FAQ
 

@@ -5,5 +5,8 @@ pages:
   - BAO: bao.md
   - BAS: bas.md
   - Whitepaper: whitepaper.md
+  - POC:
+    - Badge: 'poc/badge.md'
+    - PDAMP: 'poc/pdamp.md'
   - Misc: misc.md
 theme: readthedocs    
