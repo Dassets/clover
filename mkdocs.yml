@@ -4,6 +4,7 @@ pages:
   - About: about.md
   - BAO: bao.md
   - BAS: bas.md
+  - DAP: dap.md
   - Whitepaper: whitepaper.md
   - POC:
     - Badge: 'poc/badge.md'
