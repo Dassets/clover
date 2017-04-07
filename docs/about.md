@@ -40,9 +40,8 @@ DLT implementation is the master proof of concept of `Dasset`. OTT deployment of
 - Remote slack and other agreed channels for working communication.
 
 ### Platforms
-- [Dasset Lab](https://github.com/dasset-trade/) - collaborating to explore digital world with the open source community - https://github.com/dasset-trade/
-- [Quarkonium Lab](https://github.com/quarkonia/) - time, space, and value - https://github.com/quarkonia/ 
-- [Allbot Lab](https://github.com/allbot/) - collaborating to invent something with the open source community - https://github.com/allbot/
+- [Dasset Lab]() - collaborating to explore digital world with the open source community
+- [Quarkonium Space]() - time, space, and value
 
 ### Products
 - Blockchain Asset Omnificence (BAO)
