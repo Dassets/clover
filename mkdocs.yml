@@ -1,7 +1,7 @@
 site_name: Dasset
 pages:
   - Home: index.md
-  - About: about.md
+  - Dassetization: dassetization.md
   - BAO: bao.md
   - BAS: bas.md
   - DAP: dap.md
